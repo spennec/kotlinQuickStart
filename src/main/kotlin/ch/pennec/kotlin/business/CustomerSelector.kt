@@ -7,6 +7,6 @@ import ch.pennec.kotlin.model.Customer
  */
 class CustomerSelector {
     fun select(customers: List<Customer>): Customer {
-
+        return customers.filter { customer -> customer.firstname.length > 7 }.last();
     }
 }
