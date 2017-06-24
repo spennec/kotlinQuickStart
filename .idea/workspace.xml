@@ -2,18 +2,160 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c2c702f-1ba7-47c1-8a6f-773f7e676236" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_6_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_6_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_8_47.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/kotlin/ch/pennec/kotlin/business/CustomerSelectorTest.kt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/QuickStart-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ch/pennec/kotlin/App.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ch/pennec/kotlin/business/CustomerSelector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ch/pennec/kotlin/model/Customer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/class-fq-name-to-source.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/class-fq-name-to-source.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/class-fq-name-to-source.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/class-fq-name-to-source.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/class-fq-name-to-source.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/class-fq-name-to-source.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/class-fq-name-to-source.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/internal-name-to-source.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/internal-name-to-source.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/internal-name-to-source.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/internal-name-to-source.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/internal-name-to-source.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/internal-name-to-source.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/internal-name-to-source.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/proto.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/proto.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/proto.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/proto.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/proto.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/proto.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/proto.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-snapshot.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-snapshot.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-snapshot.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-snapshot.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-snapshot.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-snapshot.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-snapshot.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-to-classes.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-to-classes.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-to-classes.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-to-classes.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-to-classes.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-to-classes.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-to-classes.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-to-output.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-to-output.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-to-output.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-to-output.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-to-output.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-to-output.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/increCache.QuickStart/kotlin/source-to-output.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/counters.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/file-to-id.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/file-to-id.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/file-to-id.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/file-to-id.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/file-to-id.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/file-to-id.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/file-to-id.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/id-to-file.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/id-to-file.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/id-to-file.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/id-to-file.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/id-to-file.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/id-to-file.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/id-to-file.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/lookups.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/lookups.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/lookups.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/lookups.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/lookups.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/lookups.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/caches/lookups/lookups.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/data-container-format-version.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/experimental-format-version.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/format-version.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/last-build.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/compile/standalone-ic-format-version.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/class-fq-name-to-source.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/class-fq-name-to-source.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/class-fq-name-to-source.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/class-fq-name-to-source.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/class-fq-name-to-source.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/class-fq-name-to-source.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/class-fq-name-to-source.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/internal-name-to-source.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/internal-name-to-source.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/internal-name-to-source.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/internal-name-to-source.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/internal-name-to-source.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/internal-name-to-source.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/internal-name-to-source.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/proto.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/proto.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/proto.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/proto.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/proto.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/proto.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/proto.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-snapshot.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-snapshot.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-snapshot.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-snapshot.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-snapshot.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-snapshot.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-snapshot.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-to-classes.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-to-classes.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-to-classes.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-to-classes.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-to-classes.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-to-classes.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-to-classes.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-to-output.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-to-output.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-to-output.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-to-output.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-to-output.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-to-output.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/increCache.QuickStart/kotlin/source-to-output.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/counters.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/file-to-id.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/file-to-id.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/file-to-id.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/file-to-id.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/file-to-id.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/file-to-id.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/file-to-id.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/id-to-file.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/id-to-file.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/id-to-file.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/id-to-file.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/id-to-file.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/id-to-file.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/id-to-file.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/lookups.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/lookups.tab.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/lookups.tab.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/lookups.tab.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/lookups.tab.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/lookups.tab_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/caches/lookups/lookups.tab_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/data-container-format-version.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/experimental-format-version.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/format-version.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/last-build.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/kotlin-ic/test/standalone-ic-format-version.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/java-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/java-test-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ch.pennec.kotlin.AppTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ch.pennec.kotlin.business.CustomerSelectorTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/ch.pennec.kotlin.AppTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/ch.pennec.kotlin.business.CustomerSelectorTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/ch/pennec/kotlin/AppTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/ch/pennec/kotlin/business/CustomerSelectorTest.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QuickStart.iml" afterPath="$PROJECT_DIR$/QuickStart.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ch/pennec/kotlin/App.java" afterPath="$PROJECT_DIR$/src/main/java/ch/pennec/kotlin/App.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +190,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerSelectorTest.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CustomerSelectorTest.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/kotlin/ch/pennec/kotlin/business/CustomerSelectorTest.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -60,11 +202,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="65" column="22" lean-forward="true" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+              <caret line="65" column="22" lean-forward="false" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -100,6 +252,7 @@
         <option value="$PROJECT_DIR$/src/main/java/ch/pennec/kotlin/App.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/kotlin/ch/pennec/kotlin/business/CustomerSelectorTest.kt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -647,8 +800,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22954305" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32953465" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953465" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32953465" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -709,7 +862,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="65" column="22" lean-forward="true" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+          <caret line="65" column="22" lean-forward="false" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -721,6 +874,14 @@
           <folding>
             <element signature="e#35#129#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
