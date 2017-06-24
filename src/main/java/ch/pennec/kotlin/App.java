@@ -18,6 +18,5 @@ public class App
         Customer c2 = new Customer("Hello", "World");
         Customer c3 = new Customer("HelloHelloHello", "World");
         System.out.println(new CustomerSelector().select(Arrays.asList(c1, c2, c3)));
-
     }
 }

@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="ch.pennec.kotlin.AppTest" time="0.003" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="ch.pennec.kotlin.AppTest" time="0.002" errors="0" skipped="0">
   <properties>
+    <property name="idea.plugins.compatible.build" value="171.9999"/>
     <property name="idea.version" value="2017.1.4"/>
+    <property name="jna.platform.library.path" value="/usr/lib:/usr/lib"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib"/>
     <property name="java.vm.version" value="25.40-b25"/>
     <property name="gopherProxySet" value="false"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="/Users/sebastien/Dev/QuickStart"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/sebastien/Dev/kotlinQuickStart"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=":"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
     <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="jna.loaded" value="true"/>
     <property name="user.country" value="CH"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="unknown"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/Users/sebastien/Dev/QuickStart"/>
+    <property name="user.dir" value="/Users/sebastien/Dev/kotlinQuickStart"/>
     <property name="java.runtime.version" value="1.8.0_40-b27"/>
+    <property name="kotlin.incremental.compilation" value="true"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/endorsed"/>
     <property name="os.arch" value="x86_64"/>
@@ -29,6 +33,7 @@
     <property name="os.name" value="Mac OS X"/>
     <property name="classworlds.conf" value="/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/bin/m2.conf"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="jnidispatch.path" value="/var/folders/29/1bd6ynnd0554wyzpkh98hkw80000gn/T/jna--2100808352/jna8695263361497571435.tmp"/>
     <property name="java.library.path" value="/Users/sebastien/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
@@ -38,6 +43,7 @@
     <property name="user.home" value="/Users/sebastien"/>
     <property name="user.timezone" value="Europe/Zurich"/>
     <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="kotlin.incremental.compilation.experimental" value="false"/>
     <property name="java.specification.version" value="1.8"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="user.name" value="sebastien"/>
@@ -63,5 +69,5 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="ch.pennec.kotlin.AppTest" name="testApp" time="0.003"/>
+  <testcase classname="ch.pennec.kotlin.AppTest" name="testApp" time="0.002"/>
 </testsuite>
